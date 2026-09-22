@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://klim-sw.github.io/eloytv-site/review/guide.xml"
+#EXTINF:-1 tvg-id="demo-1" group-title="Демонстрация",Тестовый канал 1
+https://klim-sw.github.io/eloytv-site/review/test-pattern.mp4
+#EXTINF:-1 tvg-id="demo-2" group-title="Демонстрация",Тестовый канал 2
+https://klim-sw.github.io/eloytv-site/review/test-pattern.mp4
+#EXTINF:-1 tvg-id="demo-3" group-title="Тестовая категория",Тестовый канал 3
+https://klim-sw.github.io/eloytv-site/review/test-pattern.mp4
